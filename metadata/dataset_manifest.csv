@@ -1,0 +1,10 @@
+id,language,audio_path,transcript_path,english_reference,speaker_count
+001,tamil,audio/tamil/convo_001.mp3,transcripts/tamil/convo_001.txt,transcripts/english/convo_001.txt,2
+001,hindi,audio/hindi/convo_001.mp3,transcripts/hindi/convo_001.txt,transcripts/english/convo_001.txt,2
+001,telugu,audio/telugu/convo_001.mp3,transcripts/telugu/convo_001.txt,transcripts/english/convo_001.txt,2
+001,malayalam,audio/malayalam/convo_001.mp3,transcripts/malayalam/convo_001.txt,transcripts/english/convo_001.txt,2
+001,kannada,audio/kannada/convo_001.mp3,transcripts/kannada/convo_001.txt,transcripts/english/convo_001.txt,2
+001,marathi,audio/marathi/convo_001.mp3,transcripts/marathi/convo_001.txt,transcripts/english/convo_001.txt,2
+001,gujarati,audio/gujarati/convo_001.mp3,transcripts/gujarati/convo_001.txt,transcripts/english/convo_001.txt,2
+001,bengali,audio/bengali/convo_001.mp3,transcripts/bengali/convo_001.txt,transcripts/english/convo_001.txt,2
+001,punjabi,audio/punjabi/convo_001.mp3,transcripts/punjabi/convo_001.txt,transcripts/english/convo_001.txt,2
